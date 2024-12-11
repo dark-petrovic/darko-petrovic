@@ -40,9 +40,9 @@ I’m a **Full Stack Developer** with a knack for creating impactful software so
 ## 📊 GitHub Insights  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darko-petrovic&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=dark-petrovic&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko-petrovic&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dark-petrovic&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=darko-petrovic&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-petrovic&layout=compact&theme=react" alt="Top Languages" />
 </div>
 
 ---
